@@ -1,0 +1,7 @@
+WELCOME TO THE HYBRID CLOUD PRACTICAL
+<br/>
+<prep>
+<?php
+ print `ifconfig`;
+ ?>
+ </prep>
